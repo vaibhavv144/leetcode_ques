@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/vaibhavv144/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
+## String
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavv144/leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavv144/leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavv144/leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
