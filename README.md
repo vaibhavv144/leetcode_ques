@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavv144/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/vaibhavv144/leetcode_ques/tree/master/0036-valid-sudoku) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaibhavv144/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0496-next-greater-element-i](https://github.com/vaibhavv144/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vaibhavv144/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vaibhavv144/leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vaibhavv144/leetcode_ques/tree/master/0036-valid-sudoku) |
+| [0496-next-greater-element-i](https://github.com/vaibhavv144/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vaibhavv144/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vaibhavv144/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavv144/leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavv144/leetcode_ques/tree/master/0222-count-complete-tree-nodes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vaibhavv144/leetcode_ques/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
