@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vaibhavv144/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/vaibhavv144/leetcode_ques/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vaibhavv144/leetcode_ques/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -64,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vaibhavv144/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/vaibhavv144/leetcode_ques/tree/master/0937-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/vaibhavv144/leetcode_ques/tree/master/0165-compare-version-numbers) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vaibhavv144/leetcode_ques/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/vaibhavv144/leetcode_ques/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
